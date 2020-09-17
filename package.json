@@ -1,0 +1,22 @@
+{
+  "name": "monogatari_localize",
+  "version": "0.1.0",
+  "description": "Tool to speed up monogatari script creation, and make translations easier ",
+  "main": "main.js",
+  "scripts": {
+    "test": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LoganTann/monogatari_localize.git"
+  },
+  "author": "ShinProg (LoganTann)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LoganTann/monogatari_localize/issues"
+  },
+  "homepage": "https://github.com/LoganTann/monogatari_localize#readme",
+  "devDependencies": {
+    "electron": "^10.1.2"
+  }
+}
